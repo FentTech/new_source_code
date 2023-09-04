@@ -1,0 +1,10 @@
+#This is the new feature that i would like to add to the code
+
+name=input("enter your name")
+
+age=input("enter you age")
+
+print("welcome ",name)
+print("your age is ",age)
+
+print("after 5 years, your age will be :",(int(age)+5))
